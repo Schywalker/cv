@@ -38,6 +38,7 @@ Skills
     * Configuration/deployment both manual and via orchestration suites (Chef)
     * Disaster recovery
     * Intermediate Networking
+    * Virtualization (XenServer, KVM/Openstack)
     * Security of both applications and networks
 
 **Transferrable skills**
@@ -48,6 +49,7 @@ Skills
 * Asynchronous application design
 * REST APIs
 * Message queues (AMQP, Fluentd)
+* Time series databases (Kairosdb, Influxdb)
 * Big data (Cassandra, Elasticsearch, Google BigQuery)
 * High availability (software design, and retrofitting via services)
 * Continuous Integration
