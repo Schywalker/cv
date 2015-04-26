@@ -10,35 +10,35 @@ I'm a developer with a strong systems background, with my work focusing on backe
 Skills
 -----
 
-Languages/Experience
+**Languages/Experience**
 
-* PHP  
+* **PHP**  
     * 2+ years experience
     * Largely focused on OOPHP  
     * Experience with MVC frameworks such as Zend  
     * Experience in TDD and writing unit testable code  
     * Implementing RESTful interfaces  
     * Comfortable working in 'legacy' code  
-* Python
+* **Python**
     * 2+ years experience
     * Full application scale projects
     * Scripting and automation
     * Daemons and services  
     * Network and HTTP applications
-* Chef
+* **Chef**
     * 1 year experience
     * Nearly any project i work on comes with appropriate recipes in order to ensure ease of deployment
-* Go
+* **Go**
     * Less than 1 year experience
     * Hobbyist level experience in Go, writing mostly in my free time
-* Linux
+* **Linux**
     * 9 years experience (3 at a professional level)
     * Configuration/deployment both manual and via orchestration suites (Chef)
     * Disaster recovery
     * Intermediate Networking
     * Security of both applications and networks
 
-Transferrable skills
+**Transferrable skills**
 
 * Unit Testing
 * Git
@@ -51,7 +51,7 @@ Transferrable skills
 * Continuous Integration
 * MySQL
 
-Systems
+**Systems**
 
 * Intermediate networking knowledge
 * Familiar with Red Hat/Centos and Ubuntu linux
