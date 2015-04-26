@@ -8,12 +8,12 @@ Skills
 
 Languages/Experience
 
-* PHP
-    >Familiar with OO paradigms  
-    >Experience with MVC frameworks such as Zend
-    >Experience in TDD and writing unit testable code
-    >Implementing RESTful interfaces  
-    >Comfortable working in 'legacy' code  
+* PHP  
+⋅⋅⋅Familiar with OO paradigms  
+⋅⋅⋅Experience with MVC frameworks such as Zend
+⋅⋅⋅Experience in TDD and writing unit testable code
+⋅⋅⋅Implementing RESTful interfaces  
+⋅⋅⋅Comfortable working in 'legacy' code  
 * Python
     >Full application scale python apps  
     >Scripting and automation
