@@ -9,20 +9,20 @@ Skills
 Languages/Experience
 
 * PHP  
->>Familiar with OO paradigms  
->>Experience with MVC frameworks such as Zend  
->>Experience in TDD and writing unit testable code  
->>Implementing RESTful interfaces  
->>Comfortable working in 'legacy' code  
+    * Familiar with OO paradigms  
+    * Experience with MVC frameworks such as Zend  
+    * Experience in TDD and writing unit testable code  
+    * Implementing RESTful interfaces  
+    * Comfortable working in 'legacy' code  
 * Python
-    >Full application scale python apps  
-    >Scripting and automation
-    >Daemons and services  
-    >Network and HTTP applications
+    * Full application scale python apps  
+    * Scripting and automation
+    * Daemons and services  
+    * Network and HTTP applications
 * Chef
-    >Nearly any project i work on comes with appropriate recipes in order to ensure ease of deployment
+    * Nearly any project i work on comes with appropriate recipes in order to ensure ease of deployment
 * Go
-    >Hobbyist level experience in Go, writing mostly in my free time
+    * Hobbyist level experience in Go, writing mostly in my free time
 
 Transferrable skills
 
