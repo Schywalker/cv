@@ -33,7 +33,8 @@ Skills
     * Nearly any project i work on comes with appropriate recipes in order to ensure ease of deployment
 * **Go**
     * Less than 1 year experience
-    * Hobbyist level experience in Go, writing mostly in my free time
+    * Currently immersing myself in go, actively learning in my free time
+    * Developing personal open source projects for the fun of it (see github profile, specifically telemetry and postcache)
 * **Linux**
     * 9 years experience (3 at a professional level)
     * Configuration/deployment both manual and via orchestration suites (Chef)
