@@ -28,20 +28,27 @@ Skills
     * Scripting and automation
     * Daemons and services  
     * Network and HTTP applications
+* **Go**
+    * Less than 1 year experience
+    * Building high performance backend systems and utilities
+    * Many personal projects and libraries published open source
 * **Chef**
     * 1 year experience
     * Nearly any project i work on comes with appropriate recipes in order to ensure ease of deployment
-* **Go**
-    * Less than 1 year experience
-    * Currently immersing myself in go, actively learning in my free time
-    * Developing personal open source projects for the fun of it (see github profile, specifically telemetry and postcache)
+* **Other Languages/Experience**
+    * Bash
+    * Java/Android
+    * Ruby
+    * Lua
 * **Linux**
     * 9 years experience (3 at a professional level)
-    * Configuration/deployment both manual and via orchestration suites (Chef)
+    * Configuration/deployment both manual and via orchestration suites (Chef, Vagrant)
     * Disaster recovery
     * Intermediate Networking
     * Virtualization (XenServer, KVM/Openstack)
     * Security of both applications and networks
+    * System/Network optimization
+
 
 **Transferrable skills**
 
